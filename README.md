@@ -1,2 +1,2 @@
-# G1B6_PDS_Graded_Assignment_2
-G1B6_PDS_Graded_Assignment_2
+# PDS_Graded_Assignment_2_E-Commerce
+G1B6_PDS_Graded_Assignment_2: Machine Learning - Unsupervised Learning
